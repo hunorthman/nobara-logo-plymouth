@@ -1,5 +1,7 @@
 # Nobara Logo Plymouth Theme
 
+![Nobara Logo Plymouth Preview](preview.png)
+
 This is a custom, modern Plymouth boot theme for Nobara Linux.
 
 ## Credits
