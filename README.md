@@ -4,6 +4,9 @@
 
 This is a custom, modern Plymouth boot theme for Nobara Linux.
 
+## Links
+- **KDE Store:** [https://store.kde.org/p/2030068](https://store.kde.org/p/2342409)
+
 ## Credits
 This project is a **rebranded modification** of the original [macOS Plymouth theme](https://store.kde.org/p/2030068) created by **Lozano Juan Pablo**.
 
