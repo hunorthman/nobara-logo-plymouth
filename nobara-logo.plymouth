@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Nobara Logo Plymouth
+Description=A custom Nobara logo theme based on the macOS theme by Lozano Juan Pablo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/nobara-logo
+ScriptFile=/usr/share/plymouth/themes/nobara-logo/nobara-logo.script
